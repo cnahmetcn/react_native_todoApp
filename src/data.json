@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Ütünün fişi çekildi",
+    "isDone": true
+  },
+  {
+    "title": "Ocak kontrol edildi",
+    "isDone": true
+  },
+  {
+    "title": "Alışverişe gidildi",
+    "isDone": false
+  }
+]
